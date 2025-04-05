@@ -1,0 +1,7 @@
+arxiv
+PyPDF2
+spaCy
+requests
+tqdm
+pdfplumber
+pymupdf

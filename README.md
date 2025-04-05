@@ -9,7 +9,7 @@ Tools for training a RAG system
 The script can be run from the command line:
 
 ```bash 
-Copiarpython data_synthesis.py --papers 5 --categories hep-th hep-ph --output results.json
+python data_synthesis.py --papers 5 --categories hep-th hep-ph --output results.json
 ```
 
 ### Dependencies
